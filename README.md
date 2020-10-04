@@ -41,11 +41,16 @@ Others:
 
 ## Graph Matching / Graph Similarity
 
-- Deep Graph Matching Consensus | [paper](https://arxiv.org/pdf/2001.09621.pdf)
-- Graph Matching Networks for Learning the Similarity of Graph Structured Objects | [paper](https://arxiv.org/pdf/1904.12787.pdf) | [talk](http://www.cs.toronto.edu/~yujiali/files/talks/icml19_gmn.pdf)
-- SimGNN: A Neural Network Approach to Fast Graph Similarity Computation | [paper](http://web.cs.ucla.edu/~yzsun/papers/2019_WSDM_SimGNN.pdf)
-- Hierarchical Graph Matching Networks for Deep Graph Similarity Learning | [paper](https://openreview.net/forum?id=rkeqn1rtDH)(rejected)
-- Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching | [paper](http://yunshengb.com/wp-content/uploads/2020/03/AAAI-BaiY.509.pdf)
+- 2020 | ICLR | Deep Graph Matching Consensus | [paper](https://arxiv.org/pdf/2001.09621.pdf)
+- 2020 | ICLR | Hierarchical Graph Matching Networks for Deep Graph Similarity Learning | [paper](https://openreview.net/forum?id=rkeqn1rtDH)(rejected)
+- 2020 | AAAI | Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching | [paper](http://yunshengb.com/wp-content/uploads/2020/03/AAAI-BaiY.509.pdf)
+- 2019 | ICML | Graph Matching Networks for Learning the Similarity of Graph Structured Objects | [paper](https://arxiv.org/pdf/1904.12787.pdf) | [talk](http://www.cs.toronto.edu/~yujiali/files/talks/icml19_gmn.pdf)
+- 2019 | WSDM | SimGNN: A Neural Network Approach to Fast Graph Similarity Computation | [paper](http://web.cs.ucla.edu/~yzsun/papers/2019_WSDM_SimGNN.pdf) | [code](https://github.com/benedekrozemberczki/SimGNN)
+
 
 Survey:
-- Deep Graph Similarity Learning: A Survey | [paper](https://arxiv.org/pdf/1912.11615v1.pdf)
+- 2019 | Deep Graph Similarity Learning: A Survey | [paper](https://arxiv.org/pdf/1912.11615v1.pdf)
+
+Others:
+- 2014 | Node Similarity, Graph Similarity and Matching: Theory and Applications | [slide](https://web.eecs.umich.edu/~dkoutra/tut/sdm14_part1a.pdf)
+- 2011 | Algorithms for Graph Similarity and Subgraph Matching | [report](http://www.stat.cmu.edu/~aramdas/reports/DBreport.pdf) | [slide](http://www.stat.cmu.edu/~aramdas/reports/DBposter.pdf)
