@@ -8,7 +8,7 @@ TODO:
 [Graph signal processing & Geometric deep learning](https://web.media.mit.edu/~xdong/resource.html)
 
 
-#### Papers
+### Papers
 Survey:
 | Year | Paper |
 | ---- | ----- |
@@ -27,7 +27,7 @@ Others:
 | 2017 | [HARP: Hierarchical Representation Learning for Networks](https://arxiv.org/pdf/1706.07845.pdf)
 
 
-#### Tools
+### Tools
 - Graph Signal Processing
 	- [PyGSP: Graph Signal Processing in Python](https://github.com/epfl-lts2/pygsp)
 	- [GraSP: Graph Signal Processing and Visualization Toolbox](https://github.com/STAC-USC/GraSP)
