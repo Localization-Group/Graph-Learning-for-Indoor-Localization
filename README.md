@@ -1,7 +1,7 @@
 # Project Reference
 
 TODO:
-- | 2019 | WWW | [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://arxiv.org/pdf/1806.08804.pdf)
+- | 2019 | WWW | [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://arxiv.org/pdf/1904.05003.pdf)
 - | 2018 | NIPS | [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)
 
 ## GSP / GNN / GDL
