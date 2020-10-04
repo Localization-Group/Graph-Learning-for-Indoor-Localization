@@ -1,5 +1,8 @@
 # Project Reference
 
+## TODO
+- 2019 | WWW | Heterogeneous Graph Attention Network | [tutorial](https://dl.acm.org/doi/abs/10.1145/3308558.3313562) | [media](https://mp.weixin.qq.com/s/hzwp5oGspdtDyNBmq8sMsw)
+
 ## Hierarchical Graph
 - 2020 | AAAI | ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations | [paper](https://arxiv.org/pdf/1911.07979.pdf)
 - 2020 | Hierarchical graph attention networks for semi-supervised node classification | [paper](https://link.springer.com/article/10.1007/s10489-020-01729-w)
