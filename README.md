@@ -4,9 +4,10 @@ TODO:
 - | 2019 | WWW | [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://arxiv.org/pdf/1806.08804.pdf)
 - | 2018 | NIPS | [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)
 
+## GSP / GNN / GDL
+
 ### Resources
 [Graph signal processing & Geometric deep learning](https://web.media.mit.edu/~xdong/resource.html)
-
 
 ### Papers
 Survey:
@@ -21,6 +22,7 @@ Survey:
 Others:
 | Year | Paper |
 | ---- | ----- |
+| 2019 | [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://dl.acm.org/doi/abs/10.1145/3308558.3313461)
 | 2019 | [Learning Graphs From Data: A Signal Representation Perspective](https://ieeexplore.ieee.org/document/8700665)
 | 2019 | [Connecting the Dots: Identifying Network Structure via Graph Signal Processing](https://ieeexplore.ieee.org/document/8700659)
 | 2018 | [Topology Identification and Learning over Graphs: Accounting for Nonlinearities and Dynamics](https://ieeexplore.ieee.org/document/8347160)
@@ -36,3 +38,14 @@ Others:
 	- [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) | [paper](https://arxiv.org/pdf/1903.02428.pdf)
 	- [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
 	- [Graph Attention Networks(GAT)](https://github.com/PetarV-/GAT)
+
+## Graph Matching / Graph Similarity
+
+- Deep Graph Matching Consensus | [paper](https://arxiv.org/pdf/2001.09621.pdf)
+- Graph Matching Networks for Learning the Similarity of Graph Structured Objects | [paper](https://arxiv.org/pdf/1904.12787.pdf) | [talk](http://www.cs.toronto.edu/~yujiali/files/talks/icml19_gmn.pdf)
+- SimGNN: A Neural Network Approach to Fast Graph Similarity Computation | [paper](http://web.cs.ucla.edu/~yzsun/papers/2019_WSDM_SimGNN.pdf)
+- Hierarchical Graph Matching Networks for Deep Graph Similarity Learning | [paper](https://openreview.net/forum?id=rkeqn1rtDH)(rejected)
+- Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching | [paper](http://yunshengb.com/wp-content/uploads/2020/03/AAAI-BaiY.509.pdf)
+
+Survey:
+- Deep Graph Similarity Learning: A Survey | [paper](https://arxiv.org/pdf/1912.11615v1.pdf)
