@@ -30,6 +30,8 @@ Survey:
 Others:
 | Year | Paper |
 | ---- | ----- |
+| 2020 | [Graph Neural Networks: Architectures, Stability and Transferability](https://arxiv.org/pdf/2008.01767.pdf)
+| 2019 | [Convolutional Neural Network Architectures for Signals Supported on Graphs](https://arxiv.org/pdf/1805.00165.pdf)
 | 2019 | [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://dl.acm.org/doi/abs/10.1145/3308558.3313461)
 | 2019 | [Learning Graphs From Data: A Signal Representation Perspective](https://ieeexplore.ieee.org/document/8700665)
 | 2019 | [Connecting the Dots: Identifying Network Structure via Graph Signal Processing](https://ieeexplore.ieee.org/document/8700659)
