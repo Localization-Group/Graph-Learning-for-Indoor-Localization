@@ -2,14 +2,23 @@
 
 **Acceptance rate: 62/384=16%**
 
-## Localization related
+[Keynotes](https://sigmobile.org/mobicom/2020/keynote.php):
+- Keynote 1: [[Electronics on the brain](https://www.youtube.com/watch?v=xlRZFI0afms)] by George Malliaras
+- Keynote 2: [[Disaggregating the Cellular Radio Access Network with O-RAN](https://www.youtube.com/watch?v=ffT5cxfZ1fE&list=UUphR-rPFRLhsQNElk2dSbtw&index=5)] by Sachin Katti
+- Keynote 3: (Rock Star Award) [[What is Next for the Efficient Machine Learning Revolution?](https://www.youtube.com/watch?v=6XD8HLBT9tg)] by Nic Lane
+- Keynote 4: [What's next in 5G infrastructure?]  by Durga Malladi
+- Keynote 5: [From Research to Product: Stories from the Frontlines of R+D] by Alex Kauffmann
+- Keynote 6: [[From Early NFV to NLP – a Network Operator’s R&D Journey](https://www.youtube.com/watch?v=pFEa5mznCJs)] Ron Marquardt
+
+
+### Localization related
 - Deep Learning based Wireless Localization for Indoor Navigation | [[paper](https://dl.acm.org/doi/10.1145/3372224.3380894)] | [[project](https://wcsng.ucsd.edu//dloc/)]
 - TransLoc: Transparent Indoor Localization with Uncertain Human Participation for Instant Delivery | [paper](https://dl.acm.org/doi/10.1145/3372224.3419198) | [[dataset](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359)] | [[Short Video](https://www.youtube.com/watch?v=jBz7tPl8JH4)] | [[Long Video](https://www.youtube.com/watch?v=nRJSTLmgwss)] | [[author](https://www.yyang.site/publications/)]
 - Voice Localization Using Nearby Wall Reflections | [[paper](https://dl.acm.org/doi/abs/10.1145/3372224.3380884)] | [[author](https://sheng-shen.github.io/)]
 - (**Best Paper Award**) Hummingbird: Energy Efficient GPS Receiver for Small Satellites | [[paper](https://dl.acm.org/doi/abs/10.1145/3372224.3380886)] | [[Short Video](https://www.youtube.com/watch?v=0dcDwM3q5Nw)] | [[Long Video](https://www.youtube.com/watch?v=gwUB-tchXFg)]
 
 
-## Other interested
+### Other interested
 - (**Best Paper Award**) M-Cube: A Millimeter-Wave Massive MIMO Software Radio | [[paper](https://dl.acm.org/doi/10.1145/3372224.3380892)]
 - Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter
 Communication and Networking Approach
@@ -42,7 +51,7 @@ Smartphones
 - Contactless Seismocardiography via Deep Learning Radars
 - (**Honourable Mention Award**) Sniffing Visible Light Communication Through Walls
 
-## Demo interested
+### Demo interested
 - Demo: 5G Edge Enhanced Mobile Augmented Reality
 - Demo: A Hyperlocal Mobile Web for the Next 3 Billion Users
 - Demo: M-Cube: An Open-Source Millimeter-Wave MIMO Software Radio for Wireless
@@ -52,7 +61,7 @@ Communication and Sensing Applications
 - Demo: Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping
 
 
-## Poster interested
+### Poster interested
 - Poster: Using Magnetic Fingerprints to Position Cars on Multi-layer Roads
 - Poster: Homecoming: A Wireless Homing Device for UAVs
 - Poster: Performance Bottlenecks Identification in Cloudified Mobile Networks
@@ -62,7 +71,7 @@ Wearable Devices
 - Poster: Age of Information in Wireless Networks: from Theory to Implementation
 
 
-## Accepted papers
+### Accepted papers
 
 The conference proceedings are available in the following [link](https://dl.acm.org/doi/proceedings/10.1145/3372224).
 
