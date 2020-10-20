@@ -37,6 +37,7 @@ Others:
 | 2019 | [Connecting the Dots: Identifying Network Structure via Graph Signal Processing](https://ieeexplore.ieee.org/document/8700659)
 | 2018 | [Topology Identification and Learning over Graphs: Accounting for Nonlinearities and Dynamics](https://ieeexplore.ieee.org/document/8347160)
 | 2017 | [HARP: Hierarchical Representation Learning for Networks](https://arxiv.org/pdf/1706.07845.pdf)
+| 2013 | [The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains](https://ieeexplore.ieee.org/abstract/document/6494675)
 
 
 ### Tools
